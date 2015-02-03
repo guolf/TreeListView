@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/treelistview-lib/src/main/java/com/guolf/treelistview/TreeHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/treelistview-lib/src/main/java/com/guolf/treelistview/adapter/TreeListViewAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/treelistview-lib/src/main/java/com/guolf/treelistview/bean/Node.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/treelistview-lib/src/main/java/com/guolf/treelistview/bean/TreeNodeId.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/treelistview-lib/src/main/java/com/guolf/treelistview/bean/TreeNodeLabel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/treelistview-lib/src/main/java/com/guolf/treelistview/bean/TreeNodePid.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/treelistviewdemo/src/main/java/com/guolf/treelistviewdemo/MainActivity.java" charset="UTF-8" />
-    <file url="PROJECT" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
 

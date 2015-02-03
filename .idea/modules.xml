@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TreeListView.iml" filepath="$PROJECT_DIR$/TreeListView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/treelistview-lib/treelistview-lib.iml" filepath="$PROJECT_DIR$/treelistview-lib/treelistview-lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/treelistviewdemo/treelistviewdemo.iml" filepath="$PROJECT_DIR$/treelistviewdemo/treelistviewdemo.iml" />
     </modules>
   </component>
