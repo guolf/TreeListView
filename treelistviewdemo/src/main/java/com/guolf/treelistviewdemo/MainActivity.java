@@ -15,7 +15,10 @@ import com.guolf.treelistviewdemo.bean.FileBean;
 import java.util.ArrayList;
 import java.util.List;
 
-
+/**
+ * Created by guolf on 2015/2/3.
+ * http://www.guolingfa.cn
+ */
 public class MainActivity extends Activity {
     private List<Bean> mDatas = new ArrayList<Bean>();
     private List<FileBean> mDatas2 = new ArrayList<FileBean>();

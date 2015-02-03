@@ -5,7 +5,8 @@ import com.guolf.treelistview.bean.TreeNodeLabel;
 import com.guolf.treelistview.bean.TreeNodePid;
 
 /**
- * Created by YQQ on 2015/2/3.
+ * Created by guolf on 2015/2/3.
+ * http://www.guolingfa.cn
  */
 public class Bean {
     @TreeNodeId

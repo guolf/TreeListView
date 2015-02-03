@@ -1,9 +1,5 @@
 package com.guolf.treelistviewdemo.Adapter;
 
-import com.guolf.treelistview.adapter.TreeListViewAdapter;
-import com.guolf.treelistview.bean.Node;
-import com.guolf.treelistviewdemo.R;
-
 import android.content.Context;
 import android.view.View;
 import android.view.ViewGroup;
@@ -11,10 +7,15 @@ import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import com.guolf.treelistview.adapter.TreeListViewAdapter;
+import com.guolf.treelistview.bean.Node;
+import com.guolf.treelistviewdemo.R;
+
 import java.util.List;
 
 /**
- * Created by YQQ on 2015/2/3.
+ * Created by guolf on 2015/2/3.
+ * http://www.guolingfa.cn
  */
 public class SimpleTreeAdapter<T> extends TreeListViewAdapter<T>
 {
